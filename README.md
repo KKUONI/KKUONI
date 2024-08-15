@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 조규원입니다 반가워용 👋
 
 <!--
 **KKUONI/KKUONI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
