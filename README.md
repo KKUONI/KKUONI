@@ -25,6 +25,8 @@
 
 [링크드인 프로필](https://www.linkedin.com/in/kyuwon-cho-b37316235/)
 
+<br/>
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/KKUONI"
