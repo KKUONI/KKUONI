@@ -21,6 +21,10 @@
 
 <br/>
 
+제 링크드인입니다👇
+
+[링크드인 프로필]([https://www.instagram.com/ku_oni](https://www.linkedin.com/in/kyuwon-cho-b37316235/))
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/KKUONI"
